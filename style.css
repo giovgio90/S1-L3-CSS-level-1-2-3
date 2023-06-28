@@ -27,6 +27,10 @@ body {
   margin: 0;
 }
 
+h1 {
+  font-family: "Belanosima", sans-serif;
+}
+
 div img {
   height: 60px;
 }
@@ -54,6 +58,7 @@ div.content figcaption {
 }
 
 div.vertical-line p {
+  font-family: "Belanosima", sans-serif;
   color: rgb(194, 51, 8);
 }
 
