@@ -1,0 +1,64 @@
+.logo {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.top-bar {
+  text-align: center;
+  background: rgba(247, 227, 118, 0.123);
+  border-top: 1.5px solid rgba(255, 174, 0, 0.37);
+}
+
+.Title {
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.content {
+  width: 55%;
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+}
+
+div img {
+  height: 60px;
+}
+
+div.top-bar p {
+  margin: 0;
+  color: rgb(8, 83, 65);
+  font-size: 0.7rem;
+}
+
+div.content img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 7px 8px rgba(128, 128, 128, 0.541);
+}
+
+div.content figcaption {
+  text-align: center;
+  color: grey;
+}
+.vertical-line {
+  border-left: 2px solid rgba(255, 174, 0, 0.37);
+  padding-left: 10px;
+}
+
+div.vertical-line p {
+  color: rgb(194, 51, 8);
+}
+
+.colored-hr {
+  height: 1px;
+  background-color: rgb(91, 255, 255);
+  margin: 2px 0;
+}
